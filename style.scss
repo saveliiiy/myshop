@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Lato;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 58px;
+    font-style: normal;
+}
+
+.header {
+    background-color: #222222;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container {
+    padding: 0 232px;
+}
+
+.group-1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.group-2 {
+    display: flex;
+}
+
+.brand {
+    background-color: #F1E4E6;
+    display: flex;
+    justify-content: space-around;
+}
+
+.name-brand {
+    
+    color: #222222;
+}
